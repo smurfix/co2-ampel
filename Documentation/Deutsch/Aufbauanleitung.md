@@ -34,5 +34,5 @@
 
 ## Test und Fehlerbehebung
 
-* Verweiß auf Bedienungsanleitung
+* Verweis auf Bedienungsanleitung
 
